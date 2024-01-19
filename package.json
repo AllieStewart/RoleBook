@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AllieStewart/RoleBook/issues"
   },
-  "homepage": "https://github.com/AllieStewart/RoleBook#readme"
+  "homepage": "https://github.com/AllieStewart/RoleBook#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
 }
